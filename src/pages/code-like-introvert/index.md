@@ -9,9 +9,9 @@ A solo developer has spent most of the time as a single element with the idea th
 
 The human being does more introspective and perspective search on their being when he is alone, It's comes with ease keeping our focus with less people around us since distraction could be managed properly and more work could be done that way. So being a solo developer is neither a bad thing nor the main purpose of this write up is to invalidate being a lone wolf but more could be achieved with a team or group or friends who are developers.
 
-### Benefit of using the public like [@swyx](https://twitter.com/swyx) suggests
+<!-- ### Benefit of using the public like [@swyx](https://twitter.com/swyx) suggests
 
-A major benefit that community of developers gives is the benefit of turning that lone developer with less people to access more networks via meetups and conferences. The first community I joined was the freecodecamp community where all the business was done online and you could ask questions and get immediate response which in the end saved me some time compared to waiting on yourself to debug alone on your own. "Your net worth can be determined by your network". Trying to step out of that comfort zone is not that bad after all.
+A major benefit that community of developers gives is the benefit of turning that lone developer with less people to access more networks via meetups and conferences. The first community I joined was the freecodecamp community where all the business was done online and you could ask questions and get immediate response which in the end saved me some time compared to waiting on yourself to debug alone on your own. "Your net worth can be determined by your network". Trying to step out of that comfort zone is not that bad after all. -->
 
 ### Learning in the public
 
@@ -19,11 +19,11 @@ Let's assume you need to learn a new framework or library and you have a friend 
 
 ### Opportunities
 
-The benefit of opportunities, I will only recommend someone I have worked with for a Job offer or contract gig or freelance because I am sure the person is good at what they do and because that are in my circle, we have done somethings together. When you don't have anyone you know then such opportunity will not come to you.
+The benefit of opportunities, I will only recommend someone I have worked with for a Job offer or contract gig or freelance because I am sure the person is good at what they do and because they are in my circle, we have done somethings together. When you don't have anyone you know then such opportunity will not come to you.
 
 ### Working with a Team
 
-Coding alone might be good but coding with a team is better since much work can be done, peer code review can be done. We can build thing faster if we do it with a group of people with the same positive mindset. After getting my first full-time job offer after a referral from a mentor, I had learnt a lot on my own and taught a lot of beginners as well but working with my new teammates have taught me more in the past 3 month. Especially the code-review and talking about a problem together. Just like a "problem shared they say is half solved".
+Coding alone might be good but coding with a team is better since much work can be done, peer code review can be done- ideas can be shared. We can build thing faster if we do it with a group of people with the same positive mindset. After getting my <abbr title="Industrial Training">IT</abbr> Through a mentor, I had learnt a lot on my own from  online platforms like youtube, [Frontend Masters](https://frontendmasters.com/courses/), [CSS-TRICKS](https://css-tricks.com), [codepen](https://codepen.io) and a lot more from my mentor [Ojo Oluwasetemi](https://mobile.twitter.com/setemiojo) who mentored and taught me the basis of all I know in coding, I am using this opportunity to say a very big thank you. 
 
 ### Final Advice
 
