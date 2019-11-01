@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: '{...OOS}',
-    author: 'Ojo Oluwasetemi Stephen',
-    description: 'I write about modern JavaScript, web development, computer science and opinions are mine.🚀',
-    siteUrl: 'https://oluwasetemi.github.io/',
+    title: '{...DAMMIE}',
+    author: 'Ayokanmi Damilola Balkis',
+    description: 'I convert designs with HTML, CSS and Javascript exactly as they are, I write about modern JavaScript, web development, computer science and opinions are mine.🚀',
+    siteUrl: 'https://dammieayokanmi.netlify.com',
     social: {
-      twitter: '@setemiojo'
+      twitter: '@Ayokanm60947841'
     }
   },
   // pathPrefix: '/',
@@ -51,11 +51,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `{..OOS}`,
-        short_name: `OOS`,
+        name: `{..DAMMIE}`,
+        short_name: `DAMMIE`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#800080`,
+        theme_color: `#80b9d8`,
         display: `minimal-ui`,
         icon: `src/assets/apple-icon.png`,
       },

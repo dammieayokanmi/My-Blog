@@ -24,6 +24,7 @@ class BlogPostTemplate extends React.Component {
           description={siteDescription}
           slug={post.fields.slug}
         />
+        <br/><br/>
         <h1 style={{color: 'var(--color)'}}>{post.frontmatter.title}</h1>
         <p
           style={{
@@ -43,7 +44,7 @@ class BlogPostTemplate extends React.Component {
           }}
         />
         <p>Comments Should Load Here😜</p>
-        <Utterance repo={'Oluwasetemi/Oluwasetemi.github.io'} type={'url'}/>
+        <Utterance repo={'dammieayokanmi/dammieayokanmi.github.io'} type={'url'}/>
         <Bio />
 
         <ul

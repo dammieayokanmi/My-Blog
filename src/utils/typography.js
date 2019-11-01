@@ -12,8 +12,19 @@ Wordpress2016.overrideThemeStyles = () => ({
 
 delete Wordpress2016.googleFonts
 
-const typography = new Typography(Wordpress2016)
-
+const typography = new Typography({
+  baseFontSize: "18px",
+  baseLineHeight: 1.666,
+  headerFontFamily: [
+    "Dank Mono Regular",
+    "Avenir Next",
+    "Segoe UI",
+    "Helvetica",
+    "Arial",
+    "sans-serif",
+  ],
+  bodyFontFamily: ["Dank Mono Regular", "Avenir Next"],
+})
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== 'production') {
   typography.injectStyles()

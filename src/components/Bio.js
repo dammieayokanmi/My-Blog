@@ -18,7 +18,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Ojo Oluwasetemi`}
+          alt={`Ayokanmi Damilola`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
@@ -30,14 +30,14 @@ class Bio extends React.Component {
         <p>
           Written by {' '}
           <strong>
-            <a className="link" href="https://github.com/Oluwasetemi">Oluwasetemi Ojo Stephen</a> {'...OOS'}
-          </strong> Relocated to Lagos, Nigeria.🎈{' '}
-          <a className="link" href="https://mobile.twitter.com/setemiojo">
-            Say Hi to  Him on Twitter.
+            <a className="link" href="https://github.com/dammieayokanmi" target ="_blank">Ayokanmi Damilola Balkis</a> {'...DAMMIE'}
+          </strong>  <br/>
+          <a className="link" href="https://mobile.twitter.com/Ayokanm60947841" target ="_blank">
+            Say Hi to  Her on Twitter.
           </a>
           <br />
           {' '}
-          <a className="link" href="/rss.xml">RSS feed</a>
+          {/* <a className="link" href="/rss.xml">RSS feed</a> */}
         </p>
       </div>
     )
