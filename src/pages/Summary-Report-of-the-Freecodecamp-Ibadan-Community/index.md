@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Summary Report of the Freecodecamp Ibadan Community
 date: "2018-12-22T06:00:00.211Z"
 ---
@@ -7,7 +7,7 @@ date: "2018-12-22T06:00:00.211Z"
 
 ![A picture from meetup](https://res.cloudinary.com/drnqdd87d/image/upload/v1545940207/2018-in-picture-12018-in-picture-4_bjfouw.jpg)
 
-A quotes from my [2018 in review](https://oluwasetemi.github.io/2018-the-review/). I hope to publish this post in the freecodecamp medium publication.
+A quotes from my [2018 in review](https://dammie.netlify.com/2018-the-review/). I hope to publish this post in the freecodecamp medium publication.
 
 ### Doing the Work that Matters
 
@@ -21,4 +21,4 @@ You can find your cohort. You can organize one, join one, do it with intention.
 
 We each need to see and to be seen.
 
-The more we give away knowledge, the more you Remember it, understand it, connect it to other ideas in your head, build your identity as a role-model for that knowledge(Thought leader).
+The more we give away knowledge, the more you Remember it, understand it, connect it to other ideas in your head, build your identity as a role-model for that knowledge(Thought leader). -->

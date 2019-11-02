@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 2019 - The Review!
 date: '2019-07-01T23:46:37.121Z'
 ---
@@ -87,13 +87,13 @@ We met may, june, july, september, october, november and december with over 40 d
 
 ![FCC Poster 5](https://res.cloudinary.com/drnqdd87d/image/upload/v1545019681/IMG_20181212_174224_767_h3vuvs.jpg)
 
-To read more check out my blog on the [summary of the community](https://oluwasetemi.github.io/Summary-Report-of-the-Freecodecamp-Ibadan-Community/) in writing.
+To read more check out my blog on the [summary of the community](https://dammie.netlify.com/Summary-Report-of-the-Freecodecamp-Ibadan-Community/) in writing.
 
 ---
 
 ### My Life and Family
 
-At a very difficult time for me and my family - especially managing the properties in Abuja and Ibadan. Keeping the family running is a cost that every man will pay sooner or later. More so I enjoyed living with **Aderinola Omobolade** very well for months before she finished secondary school and moved to lagos with my elder sister. I got better in communication with **Ayooluwa Omobolaji** as well, which has been my desire for a longtime now. I appreciate his simple and balance harmony and I am blessed to have such wonderful hearts to share my life with.
+At a very difficult time for me and my family - especially managing the properties in Abuja and Ibadan. Keeping the family running is a cost that every man will pay sooner or later. More so I enjoyed living with **Aderinola https://dammie.netlify.com** very well for months before she finished secondary school and moved to lagos with my elder sister. I got better in communication with **Ayooluwa Omobolaji** as well, which has been my desire for a longtime now. I appreciate his simple and balance harmony and I am blessed to have such wonderful hearts to share my life with.
 
 ![Bolade's graduation](https://res.cloudinary.com/drnqdd87d/image/upload/v1545940757/2018-in-picture-17_i3uexf.jpg)
 
@@ -129,7 +129,8 @@ I am sure of one thing, it's always good to move on when you feel too convenient
 
 As a digital nomad, I have been documenting my process of Job application in a google spread sheet that I hope I will make public soon, applying to Jobs and doing interviews have taught me a lot of things. I will update it here once I have finalized the new Job.
 
-If you know anyone who is looking to hire a JavaScript developer (front-end or back-end) kindly reach out to [me](http://cv-oluwasetemi.netlify.com).
+If you know anyone who is looking to hire a JavaScript developer (front-end or back-end) kindly reach out to [me](
+https://ayokanmi-damilola-cv.netlify.com).
 
 ---
 
@@ -192,4 +193,4 @@ I listen mostly while on commute or doing chores or anytime I need to cool off w
 ![alt](https://res.cloudinary.com/drnqdd87d/image/upload/v1545940511/2018-in-picture-7_vlytsv.jpg)
 ![alt](https://res.cloudinary.com/drnqdd87d/image/upload/v1545940385/2018-in-picture-22_nrdmls.jpg)
 
-*Thanks for Reading*
+*Thanks for Reading* -->

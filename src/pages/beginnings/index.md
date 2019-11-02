@@ -8,7 +8,7 @@ A very difficult part of life is the beginning, full of waiting. 9 month for a n
 
 It took me a lot twist and turns to set this blog up - I had to delete,clone debug errors as this is my first time of using gatsby and I got familiar to npm few weeks ago - all thanks to [Oluwasetemi](https://mobile.twitter.com/setemiojo) for his help, understanding, support and patience.
 
-If you don't know, this blog was built with [Gatsbyjs](https://gatsbyjs.org). It's gradually gaining ground with it's ideology of [React](https://reactjs.org) and [GraphQL](https://graphql.org) like I mention in the [first post](https://oluwasetemi.github.io/hello-world), PWA ingrained and other cools feature that are pre-baked. I used the [Blog starter](https://github.com/gatsbyjs/gatsby-starter-blog) and tweaked with [overreacted](https://overreacted.io/) - A personal blog by [Dan Abramov](https://mobile.twitter.com/dan_abramov).
+If you don't know, this blog was built with [Gatsbyjs](https://gatsbyjs.org). It's gradually gaining ground with it's ideology of [React](https://reactjs.org) and [GraphQL](https://graphql.org) like I mention in the [first post](https://dammie.netlify.com/hello-world), PWA ingrained and other cools feature that are pre-baked. I used the [Blog starter](https://github.com/gatsbyjs/gatsby-starter-blog) and tweaked with [overreacted](https://overreacted.io/) - A personal blog by [Dan Abramov](https://mobile.twitter.com/dan_abramov).
 
 I am sure I will enjoy the new opportunity to write this blog and I can only hope it will be needful to everyone like me out there in the cold, tech savvy , computer science folks and all with interest in learning how to code.
 
