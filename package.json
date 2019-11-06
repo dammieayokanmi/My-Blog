@@ -3,7 +3,6 @@
   "description": "I convert designs exactly as they are, I write about modern JavaScript, web development, computer science and opinions are mine.🚀",
   "version": "1.0.0",
   "author": "Ayokanmi Damilola <dammieayokanmi@gmail.com>",
-  "bugs": {},
   "dependencies": {
     "gatsby": "^2.17.7",
     "gatsby-plugin-feed": "^2.0.8",
@@ -59,5 +58,8 @@
     "build": "gatsby build",
     "deploy": "gatsby build && gh-pages -d public -b master",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
+  },
+  "bugs": {
+    "url": "https://github.com/dammieayokanmi/dammieayokanmi.github.io/issues"
   }
 }
